@@ -1,0 +1,81 @@
+/* body{ */
+    /* background-color: black; */
+/* } */
+/* .main{ */
+    position: relative;
+    top: 0;
+    width: 100%;
+    height: 100px;
+    background:white;
+    border:1px black;
+/* } */
+/* .leaves{ */
+    height: 100%;
+    width: 100%;
+}
+/* .name{ */
+    position: relative;
+    background:#4aaaa5;
+    width: 18%;
+    top: 0;
+    margin-left: 156px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #fff;
+    padding-bottom: 48px;
+    text-align: center
+
+      
+/* } */
+hr{
+    width: 100%;
+    height: 1px;
+    background: #fff
+}
+body{
+    background: gray;
+    font-family: Arial, Helvetica, sans-serif
+}
+.info{
+    border:2px solid black;
+    position: absolute;
+    top: 163px;
+    left: 166px;
+    bottom: 223px;
+    right: 150px;
+    background: white 
+}
+.space{
+    padding: 50px
+}
+.photo{
+    width: 200px;
+    height: 200px;
+}
+.float{
+    float: right;
+}
+.float_2{
+    clear: both;
+}
+/* p{ */
+    /* font-size: 16px; */
+    /* line-height: 2; */
+/* } */
+.bottom{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background: gray;
+    height: 58px;
+    border:2px #4aaaa5
+}
+.foot{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    /* height: 75px; */
+    text-align: center;
+    /* background: gray */
+    color: white;
+    border-top: 8px solid #4aaaa5
+}
